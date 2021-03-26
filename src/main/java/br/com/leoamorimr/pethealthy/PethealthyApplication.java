@@ -8,6 +8,7 @@ public class PethealthyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PethealthyApplication.class, args);
+        System.out.println("Teste");
     }
 
 }
